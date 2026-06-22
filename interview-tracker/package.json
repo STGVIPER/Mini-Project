@@ -2,7 +2,7 @@
   "name": "interview-tracker",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://STGVIPER.github.io/Mini-Project/interview-tracker/",
+  "homepage": "https://stgviper.github.io/Mini-Project/interview-tracker",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
