@@ -2,7 +2,7 @@
   "name": "interview-tracker",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://stgviper.github.io/Mini-Project/interview-tracker",
+  "homepage": "https://stgviper.github.io/Mini-Project",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -19,6 +19,6 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -b gh-pages"
+    "deploy": "gh-pages -d dist "
   }
 }
